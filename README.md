@@ -3,7 +3,7 @@ Using python3 to crawl the Bing wallpaper
 
 
 # How to use
-1. Download the ["crawler.py"](https://github.com/caomxin/CrawlBingWallpaper/blob/master/crawler.py) python file to your file system
+1. Download the ["crawler.py"](https://github.com/caomxin/BingWallpaperCrawler/blob/master/crawler.py) python file to your file system
 2. Run it in command line with argument `python crawler.py`. 
 3. And it will automatically save today's bing wallpaper to your computer. 
 
